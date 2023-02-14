@@ -1,5 +1,12 @@
 webpackJsonp([1],{
 
+/***/ "5Zu0":
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "9ZMm":
 /***/ (function(module, exports) {
 
@@ -17,6 +24,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var vue_esm = __webpack_require__("7+uW");
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./src/App.vue
+//
 //
 //
 //
@@ -50,6 +58,13 @@ var vue_esm = __webpack_require__("7+uW");
   },
 
   methods: {
+    confirm: function confirm(num) {
+      if (num === 0) {
+        alert('錯了吧');
+      } else {
+        alert('不錯喔~');
+      }
+    },
     getprofile: function getprofile() {
       var _this2 = this;
 
@@ -59,14 +74,14 @@ var vue_esm = __webpack_require__("7+uW");
     }
   }
 });
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-73753ac9","hasScoped":false,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/App.vue
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('p',{staticClass:"text-red"},[_vm._v("Welcome")]),_vm._v(" "),_c('div',[_vm._v("\n    Hi~ "+_vm._s(_vm.profile.displayName)+"\n  ")]),_vm._v("\n  請確認以下是你本人嗎?\n  "),_c('img',{attrs:{"src":_vm.profile.pictureUrl,"height":"200px"}}),_vm._v(" "),_c('button',[_vm._v("YES")]),_vm._v(" "),_c('button',[_vm._v("NO")]),_vm._v(" "),_c('router-view')],1)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-7ebd17eb","hasScoped":false,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/App.vue
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('p',{staticClass:"text-red"},[_vm._v("Welcome")]),_vm._v(" "),_c('div',[_vm._v("\n    Hi~ "+_vm._s(_vm.profile.displayName)+"\n  ")]),_vm._v("\n  請確認以下是你本人嗎?\n  "),_c('br'),_vm._v(" "),_c('img',{attrs:{"src":_vm.profile.pictureUrl,"height":"200px"}}),_vm._v(" "),_c('button',{on:{"click":function($event){return _vm.confirm(1)}}},[_vm._v("YES")]),_vm._v(" "),_c('button',{on:{"click":function($event){return _vm.confirm(0)}}},[_vm._v("NO")]),_vm._v(" "),_c('router-view')],1)}
 var staticRenderFns = []
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ var selectortype_template_index_0_src_App = (esExports);
 // CONCATENATED MODULE: ./src/App.vue
 function injectStyle (ssrContext) {
-  __webpack_require__("f2az")
+  __webpack_require__("5Zu0")
 }
 var normalizeComponent = __webpack_require__("VU/8")
 /* script */
@@ -172,13 +187,6 @@ new vue_esm["a" /* default */]({
   components: { App: src_App },
   template: '<App/>'
 });
-
-/***/ }),
-
-/***/ "f2az":
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
 
 /***/ })
 
