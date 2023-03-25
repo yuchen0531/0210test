@@ -1,0 +1,44 @@
+[
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "qwe",
+    "subwoud": "er",
+    "desc": "gnbfgn"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "qweqw",
+    "subwoud": "",
+    "desc": "fgngfn"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 0,
+    "mainword": "daf",
+    "subwoud": "ty5rt",
+    "desc": "gfnfg"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 0,
+    "mainword": "dsfe",
+    "subwoud": "er",
+    "desc": "nfgnfgn"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 0,
+    "mainword": "fwerg",
+    "subwoud": "rt",
+    "desc": "fgnfg"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 0,
+    "mainword": "gwrg",
+    "subwoud": "ret",
+    "desc": "fnger"
+  }
+]
