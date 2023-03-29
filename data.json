@@ -1,1 +1,16 @@
-[{"type":"noun-tag","favorite":true,"mainword":":Y","subwoud":"WY","desc":"h:"},{"type":"noun-tag","favorite":true,"mainword":":Y","subwoud":"WY","desc":"h:"},{"type":"noun-tag","favorite":true,"mainword":"÷Ñ","subwoud":"  DO","desc":"ğş"},{"type":"noun-tag","favorite":true,"mainword":"÷Ñ123123","subwoud":"  DO","desc":"ğş"}]
+[
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "ç¤ºã™",
+    "subwoud": "ã—ã‚ã™",
+    "desc": "è¡¨ç¤º"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "è¿·æƒ‘",
+    "subwoud": "ã‚ã„ã‚ã",
+    "desc": "å›°æ“¾"
+  }
+]
