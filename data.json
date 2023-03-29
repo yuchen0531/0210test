@@ -1,16 +1,18 @@
-[
-  {
-    "type": "noun-tag",
-    "favorite": 1,
-    "mainword": "示す",
-    "subwoud": "しめす",
-    "desc": "表示"
-  },
-  {
-    "type": "noun-tag",
-    "favorite": 1,
-    "mainword": "迷惑",
-    "subwoud": "めいわく",
-    "desc": "困擾"
-  }
-]
+{
+  "wordlist": [
+    {
+      "type": "noun-tag",
+      "favorite": 1,
+      "mainword": "示す",
+      "subwoud": "しめす",
+      "desc": "表示"
+    },
+    {
+      "type": "noun-tag",
+      "favorite": 1,
+      "mainword": "迷惑",
+      "subwoud": "めいわく",
+      "desc": "困擾"
+    }
+  ]
+}
