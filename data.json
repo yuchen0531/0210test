@@ -1,1 +1,16 @@
-"[\r\n  {\r\n    \"type\": \"noun-tag\",\r\n    \"favorite\": 1,\r\n    \"mainword\": \"示す\",\r\n    \"subwoud\": \"しめす\",\r\n    \"desc\": \"表示\"\r\n  },\r\n  {\r\n    \"type\": \"noun-tag\",\r\n    \"favorite\": 1,\r\n    \"mainword\": \"迷惑\",\r\n    \"subwoud\": \"めいわく\",\r\n    \"desc\": \"困擾\"\r\n  }\r\n]"
+[
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "示す",
+    "subwoud": "しめす",
+    "desc": "表示"
+  },
+  {
+    "type": "noun-tag",
+    "favorite": 1,
+    "mainword": "迷惑",
+    "subwoud": "めいわく",
+    "desc": "困擾"
+  }
+]
