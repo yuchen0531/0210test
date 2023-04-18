@@ -5,14 +5,21 @@
       "favorite": 1,
       "mainword": "示す",
       "subwoud": "しめす",
-      "desc": "表示"
+      "desc": "表示",
+      "example": [
+        "関心をしめす"
+      ]
     },
     {
       "type": "noun-tag",
       "favorite": 1,
       "mainword": "迷惑",
       "subwoud": "めいわく",
-      "desc": "困擾"
+      "desc": "麻煩;打擾;困擾",
+      "example": [
+        "迷惑をかける",
+        "そのためずいぶん迷惑した"
+      ]
     }
   ]
 }
